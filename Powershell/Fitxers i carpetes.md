@@ -37,13 +37,19 @@ Get-Help New-Item
 Respon:
 
 - Per a què serveix `New-Item`?
+Serveix per crear elements nous, principalment fitxers i directoris (carpetes).
+
 - Quina estructura té l'ordre?
+```powershell
+New-Item -Path <ruta> -ItemType <tipus>
+```
 
 Consulta alguns exemples:
 
 ```
 Get-Help New-Item -Examples
 ```
+![Gethelp](captures/get-help.png)
 
 ---
 
