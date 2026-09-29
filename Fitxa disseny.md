@@ -121,17 +121,15 @@ Per tant, Dídac pot estar ubicat a l'OU `Administracio` i al mateix temps forma
 
 # 5. Servei de directori
 
-Explica breument què entens per **servei de directori**.
+### Explica breument què entens per servei de directori.
 
----
+És un servei que permet **guardar i gestionar de manera centralitzada informació sobre usuaris, grups, equips, servidors i altres objectes de l'empresa**.
 
----
+### Quin problema resol a MusicCloud?
 
-Quin problema resol a MusicCloud?
+Permet tenir els usuaris i els recursos **organitzats i gestionats de manera centralitzada**, facilitant la gestió dels permisos i dels accessos.
 
----
-
----
+Això és especialment útil perquè MusicCloud té diferents departaments, responsables, usuaris externs i projectes.
 
 ---
 
