@@ -92,23 +92,30 @@ Considera aquest cas:
 - participa en el projecte Campanya Estiu.
     
 
-Indica:
+### En quina OU ubicaries el seu compte?
 
-**En quina OU ubicaries el seu compte?**
+A:
 
----
+```text
+MusicCloud
+└── Usuaris
+    └── Administracio
+```
 
-**A quins grups podria pertànyer?**
+### A quins grups podria pertànyer?
 
----
+Podria pertànyer a:
 
----
+```text
+Administracio
+Campanya_Estiu
+```
 
 ### Per què no és contradictori que estigui en una OU però pertanyi a diversos grups?
 
----
+Perquè **l'OU indica on està organitzat el seu compte dins del directori**, mentre que els **grups indiquen a quins recursos o permisos té accés**.
 
----
+Per tant, Dídac pot estar ubicat a l'OU `Administracio` i al mateix temps formar part del grup `Campanya_Estiu`.
 
 ---
 
