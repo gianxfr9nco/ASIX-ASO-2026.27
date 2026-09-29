@@ -171,13 +171,42 @@ Ha de mostrar, com a mínim:
 - les subdivisions que consideris necessàries.
     
 
+Una proposta de DIT seria:
+
 ```text
 MusicCloud
 │
+├── Usuaris
+│   ├── Direccio
+│   ├── Administracio
+│   ├── SuportTecn
+│   ├── ProduccioMusical
+│   ├── Informatica
+│   └── Externs
 │
+├── Grups
+│   ├── Departaments
+│   │   ├── Administracio
+│   │   ├── SuportTecn
+│   │   ├── ProduccioMusical
+│   │   └── Informatica
+│   │
+│   ├── Responsables
+│   └── Projectes
+│       └── CampanyaEstiu
 │
+├── Equips
+│   ├── Clients
+│   └── Altres
 │
+├── Servidors
+│   ├── ServidorFitxers
+│   ├── ServidorDirectori
+│   └── Altres
 │
+└── Serveis
+    ├── Aplicacions
+    └── ComptesServeis
 ```
 
 ---
