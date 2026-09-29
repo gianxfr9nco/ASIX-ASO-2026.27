@@ -217,23 +217,21 @@ Escull **dues decisions** del teu DIT que consideris importants i justifica-les.
 
 ### Decisió 1
 
----
+**Separar els usuaris per departaments.**
 
 **Justificació:**
 
----
+MusicCloud té diferents departaments amb funcions diferents. Separar els usuaris facilita la seva organització i administració.
 
 ---
 
 ### Decisió 2
 
----
+**Separar els grups dels usuaris.**
 
 **Justificació:**
 
----
-
----
+Els grups permeten gestionar els permisos sense haver de donar-los individualment a cada persona. També permeten crear grups per a projectes, com `Campanya_Estiu`.
 
 ---
 
