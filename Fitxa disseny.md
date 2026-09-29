@@ -241,21 +241,19 @@ Respon breument.
 
 ### a) Per què no seria una bona idea guardar tots els usuaris, grups, equips i servidors al mateix nivell sense organitzar-los?
 
----
+Perquè seria més difícil trobar, administrar i gestionar els objectes. També seria més complicat aplicar una estructura clara al servei de directori.
 
 ---
 
 ### b) Per què no hauríem d'utilitzar les OU per substituir els grups de permisos?
 
----
+Perquè una OU serveix principalment per **organitzar objectes**, mentre que els grups serveixen per **agrupar usuaris i gestionar els seus permisos**.
 
 ---
 
 ### c) Si MusicCloud passa de 14 a 500 treballadors, quina característica del disseny que has fet avui facilitarà més l'administració?
 
----
-
----
+La utilització de **grups** facilitarà l'administració, perquè els permisos es poden assignar al grup i no individualment a cada treballador.
 
 ---
 
