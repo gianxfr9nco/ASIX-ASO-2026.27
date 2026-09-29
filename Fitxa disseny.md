@@ -135,24 +135,20 @@ Això és especialment útil perquè MusicCloud té diferents departaments, resp
 
 # 6. LDAP
 
-Completa les frases següents.
+### LDAP és:
 
-**LDAP és:**
+Un **protocol que permet consultar i gestionar informació emmagatzemada en un servei de directori**.
 
----
+### LDAP no és:
 
-**LDAP no és:**
-
----
-
-Indica si les afirmacions són certes o falses.
+No és un servei de directori concret ni és sinònim d'Active Directory.
 
 |Afirmació|C|F|
 |---|:-:|:-:|
-|LDAP és sinònim d'Active Directory|☐|☐|
-|LDAP permet accedir i consultar informació d'un directori|☐|☐|
-|OpenLDAP és una implementació d'un servei de directori|☐|☐|
-|Active Directory utilitza LDAP, entre altres tecnologies|☐|☐|
+|LDAP és sinònim d'Active Directory|☐|☑|
+|LDAP permet accedir i consultar informació d'un directori|☑|☐|
+|OpenLDAP és una implementació d'un servei de directori|☑|☐|
+|Active Directory utilitza LDAP, entre altres tecnologies|☑|☐|
 
 ---
 
