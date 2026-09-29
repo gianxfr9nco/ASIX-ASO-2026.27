@@ -75,17 +75,11 @@ Indica quina opció utilitzaries principalment en cada cas.
 
 **OU:**
 
----
-
----
+Una OU serveix principalment per **organitzar els objectes del directori**, per exemple separar els usuaris, equips o servidors.
 
 **Grup:**
 
----
-
----
-
----
+Un grup serveix principalment per **agrupar usuaris que tenen unes necessitats o permisos semblants**.
 
 # 4. Un mateix usuari: ubicació i pertinença
 
