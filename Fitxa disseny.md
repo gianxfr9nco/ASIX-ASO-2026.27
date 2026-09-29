@@ -46,7 +46,13 @@ Dibuixa l'estructura que utilitzaries per organitzar els usuaris de MusicCloud.
 ```text
 MusicCloud
 │
-└──
+└── Usuaris
+    ├── Direccio
+    ├── Administracio
+    ├── SuportTecn
+    ├── ProduccioMusical
+    ├── Informatica
+    └── Externs
 ```
 
 ---
