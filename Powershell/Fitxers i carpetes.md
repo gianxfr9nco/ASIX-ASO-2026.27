@@ -56,6 +56,7 @@ Get-Help New-Item -Examples
 **3. Descobrir un paràmetre**
 
 Consulta què significa el paràmetre `-ItemType`:
+Indica quin tipus d'element volem crear amb *New-Item*.
 
 ```
 Get-Help New-Item -Parameter ItemType
@@ -63,11 +64,17 @@ Get-Help New-Item -Parameter ItemType
 
 A partir de l'ajuda, intenta descobrir com crear una carpeta.
 
-Per exemple, haurien d'arribar a alguna cosa semblant a:
+Per exemple, haurien d'arribar a alguna cosa semblant a
 
-```
+Per crear una carpeta, utilitzem:
+```powershell
 New-Item -ItemType Directory -Name Prova
 ```
+-*New-Item* → crea un element nou.
+
+-*ItemType Directory* → indica que volem crear una carpeta.
+
+-*Name Prova* → indica que la carpeta es dirà Prova.
 
 ---
 
