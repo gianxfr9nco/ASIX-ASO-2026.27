@@ -95,12 +95,14 @@ L'objectiu és arribar a descobrir:
 ```
 Rename-Item
 ```
+![Rename-Item](captures/Rename-Item.png)
 
 i consultar:
 
 ```
 Get-Help Rename-Item -Examples
 ```
+![Rename-Examples](captures/renameexamples.png)
 
 ---
 
