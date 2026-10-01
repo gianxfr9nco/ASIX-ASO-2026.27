@@ -108,11 +108,14 @@ Get-Help Rename-Item -Examples
 
 Sense utilitzar Internet, descobreix quins cmdlets faries servir per:
 
-1. crear una carpeta;
-2. canviar-li el nom;
-3. copiar-la;
-4. moure-la;
-5. eliminar-la.
+| Acció             | Cmdlet        | Exemple                                    |
+| ----------------- | ------------- | ------------------------------------------ |
+| Crear una carpeta | `New-Item`    | `New-Item -ItemType Directory -Name Prova` |
+| Canviar-li el nom | `Rename-Item` | `Rename-Item Prova NovaProva`              |
+| Copiar-la         | `Copy-Item`   | `Copy-Item NovaProva C:\Copia`             |
+| Moure-la          | `Move-Item`   | `Move-Item NovaProva C:\Destinacio`        |
+| Eliminar-la       | `Remove-Item` | `Remove-Item NovaProva`                    |
+
 
 **Condició:** només pots utilitzar `Get-Command` i `Get-Help` per investigar les ordres.
 
