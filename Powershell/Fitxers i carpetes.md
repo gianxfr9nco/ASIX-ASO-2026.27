@@ -118,6 +118,7 @@ Sense utilitzar Internet, descobreix quins cmdlets faries servir per:
 
 
 **Condició:** només pots utilitzar `Get-Command` i `Get-Help` per investigar les ordres.
+![descobrircommand](captures/descobrircomand.png)
 
 Descobrir ordres de xarxa amb PowerShell
 
@@ -142,7 +143,12 @@ No pots buscar les respostes a Internet.
 
 Descobreix quines ordres de PowerShell et permeten obtenir la informació següent:
 
-1. Mostrar els adaptadors de xarxa de l’equip.      
+- Per descobrir les ordres de xarxa podem començar buscant cmdlets relacionats amb Network:
+
+![Get-Network](captures/getc-network.png)
+
+1. Mostrar els adaptadors de xarxa de l’equip. 
+     
 2. Consultar les adreces IP configurades.      
 3. Consultar la configuració IP completa dels adaptadors de xarxa.      
 4. Consultar els servidors DNS configurats.      
