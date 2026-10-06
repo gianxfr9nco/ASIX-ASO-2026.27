@@ -157,6 +157,7 @@ Descobreix quines ordres de PowerShell et permeten obtenir la informació següe
 
 3. Consultar la configuració IP completa dels 
 adaptadors de xarxa.      
+![get-ipconfig](captures/ipconfig.png)
 
 4. Consultar els servidors DNS configurats. 
 
