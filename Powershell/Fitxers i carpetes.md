@@ -153,12 +153,13 @@ Descobreix quines ordres de PowerShell et permeten obtenir la informació següe
 ![Get-Netadapter](captures/ADAPTER.png)     
 
 2. Consultar les adreces IP configurades.  
+![GET-IP](captures/ip.png)
 
 3. Consultar la configuració IP completa dels 
 adaptadors de xarxa.      
 
 4. Consultar els servidors DNS configurats. 
-     
+
 5. Comprovar si hi ha connectivitat amb un altre equip de la xarxa.  
 
 ---
