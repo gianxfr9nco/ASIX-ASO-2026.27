@@ -40,6 +40,7 @@ Respon:
 Serveix per crear elements nous, principalment fitxers i directoris (carpetes).
 
 - Quina estructura té l'ordre?
+
 ```powershell
 New-Item -Path <ruta> -ItemType <tipus>
 ```
@@ -48,6 +49,7 @@ Consulta alguns exemples:
 
 ```
 Get-Help New-Item -Examples
+
 ```
 ![Gethelp](captures/get-help.png)
 
@@ -148,10 +150,15 @@ Descobreix quines ordres de PowerShell et permeten obtenir la informació següe
 ![Get-Network](captures/getc-network.png)
 
 1. Mostrar els adaptadors de xarxa de l’equip. 
+![Get-Netadapter](captures/ADAPTER.png)     
+
+2. Consultar les adreces IP configurades.  
+
+3. Consultar la configuració IP completa dels 
+adaptadors de xarxa.      
+
+4. Consultar els servidors DNS configurats. 
      
-2. Consultar les adreces IP configurades.      
-3. Consultar la configuració IP completa dels adaptadors de xarxa.      
-4. Consultar els servidors DNS configurats.      
 5. Comprovar si hi ha connectivitat amb un altre equip de la xarxa.  
 
 ---
