@@ -160,10 +160,10 @@ adaptadors de xarxa.
 ![get-ipconfig](captures/ipconfig.png)
 
 4. Consultar els servidors DNS configurats. 
-![](captures/get-dns.png)
+![get-dns](captures/get-dns.png)
 
 5. Comprovar si hi ha connectivitat amb un altre equip de la xarxa.  
-![](captures/testconec.png)
+![test-conec](captures/testconec.png)
 
 ---
 ## Per cada tasca
